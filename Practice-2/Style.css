@@ -1,0 +1,29 @@
+/* styling the body element  */
+body{
+    background-color: #05c46b;
+    font-family: Verdana;
+    text-align: center;
+}
+
+/* styling the form  */
+form{
+    background-color: #fff;
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 30px 20px;
+    box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+/* styling form-control class */
+
+.form-control{
+    text-align: left;
+    margin-bottom: 25px;
+}
+
+/* styling form-control label  */
+
+.form-control label{
+    display: block;
+    margin-bottom: 10px;
+}
